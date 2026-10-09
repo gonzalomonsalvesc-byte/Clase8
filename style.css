@@ -1,5 +1,4 @@
-        <style>
-            :root {
+ :root {
                 --color-bg: #eaeaea;
                 --color-bg-nota: hsl(30, 5%, 85%);
                 --color-text: rgb(60, 60, 60);
@@ -229,4 +228,3 @@
                 font-weight: 700;
                 color: var(--color-text-light);
             }
-        </style>
